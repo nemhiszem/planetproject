@@ -7,10 +7,13 @@
     justify-content: center;
     overflow: hidden;
 }
-.video-container{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
+@media (max-aspect-ratio:16/9) 
+{
+    .video-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
 }
