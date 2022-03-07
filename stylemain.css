@@ -1,12 +1,13 @@
 @import url('http://fonts.cdnfonts.com/css/blanka');
 body {
     margin: 0px;
+    overflow: hidden;
 }
 .video-container {
         position: absolute;
-        left: 0;
-        top: 0;
         width:100%;height:100%;
+        background-position: center;
+        
     }
 
 
