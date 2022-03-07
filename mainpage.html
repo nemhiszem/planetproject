@@ -29,10 +29,18 @@
         </audio>
         <div class="audio" onclick="play()">audio</div>
         <script type="text/javascript">
+            var nem = false;
             function play() {
                 var audio = document.getElementById("audio");
-                audio.loop = true;
-                audio.play();
+                if (nem) {
+                    audio.pause();
+                    nem = false;
+                }
+                else {
+                    audio.loop = true;
+                    audio.play();
+                    nem = true;
+                }
             }
         </script>
     </div>
