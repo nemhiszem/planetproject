@@ -28,7 +28,20 @@
     </div>
 
     <div class="audio_cont">
-        <div class="audio">audio</div>
+        <audio id="audio">
+            <source src="mainmusic.mp3" type="audio/mp3">
+        </audio>
+        <div class="audio" onclick="play()">audio</div>
+        <script type="text/javascript">
+            function play() {
+                var audio = document.getElementById("audio");
+                audio.play();
+            }
+            function stop() {
+                var audio = document.getElementById("audio");
+                audio.stop();
+            }
+        </script>
     </div>
 </body>
 </html>
