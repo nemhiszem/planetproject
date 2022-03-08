@@ -4,7 +4,7 @@ body {
     overflow: hidden;
 }
 
-body html video {
+html body video {
     min-height: 100vh;
     min-width: 100vw;
 }
