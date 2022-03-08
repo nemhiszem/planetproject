@@ -84,11 +84,11 @@ html body {
     text-decoration: none;
 }
 
-    .button:hover {
-        box-shadow: 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee, 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee;
-        text-shadow: 0 0 1px #15f4ee, 0 0 1px #15f4ee;
-    }
-     
+.button:hover {
+    box-shadow: 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee, 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee;
+    text-shadow: 0 0 1px #15f4ee, 0 0 1px #15f4ee;
+}
+
 .active {
     opacity: 1;
 }
