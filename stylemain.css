@@ -3,14 +3,13 @@ body {
     margin: 0px;
     overflow: hidden;
 }
+
 .video-container {
-        position: absolute;
-        min-width:100%;
-        min-height:100%;
-        background-position: center;
-    }
-
-
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    background-position: center;
+}
 
 .button_cont {
     position: absolute;
@@ -36,11 +35,10 @@ body {
     font-family: 'Blanka', sans-serif;
 }
 
-    .button:hover {
-        box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee, 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
-        text-shadow: 0 0 5px #15f4ee, 0 0 5px #15f4ee;
-    }
-
+.button:hover {
+    box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee, 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+    text-shadow: 0 0 5px #15f4ee, 0 0 5px #15f4ee;
+}
 
 .audio_cont {
     position: absolute;
