@@ -2,7 +2,6 @@ body {
     min-height: 50%;
     min-width: 50%;
     overflow: hidden;
-    background-image:".png";
 }
 
 .bg-container {
