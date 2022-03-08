@@ -38,6 +38,7 @@ html body video {
     border-radius: 100px;
     transition: 1.5s;
     font-family: 'Blanka', sans-serif;
+    text-decoration: none;
 }
 
 .button:hover {
