@@ -1,5 +1,5 @@
 document.getElementById("myButton").onclick = function() {
-    location.href = "prestory.html";
+    location.href = "../prestory/prestory.html";
 }
 
 var vid = document.getElementById("video");
