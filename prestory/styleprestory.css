@@ -26,22 +26,18 @@ body {
 
 .bg-container-1 {
     background-image: url(sun.jpg);
-    background-size: cover;
 }
 
 .bg-container-2 {
     background-image: url(cloud.jpg);
-    background-size: cover;
 }
 
 .bg-container-3 {
     background-image: url(cloud.jpg);
-    background-size: cover;
 }
 
 .bg-container-4 {
     background-image: url(cloud.jpg);
-    background-size: cover;
 }
 
 .bg-container3 {
