@@ -1,3 +1,29 @@
 body {
-    background-color: darkblue;
+    min-height: 50%;
+    min-width: 50%;
+    overflow: hidden;
+}
+
+.bg-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+    min-width: 100%;
+    transition: 2s;
+    opacity: 0;
+}
+
+.bg-container.active {
+    opacity: 1;
+}
+
+.bg-container-1 {
+    background-image: url(sun.jpg);
+    background-size: cover;
+}
+
+.bg-container-2 {
+    background-image: url(cloud.jpg);
+    background-size: cover;
 }
