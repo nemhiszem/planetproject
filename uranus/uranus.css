@@ -2,11 +2,7 @@ body {
     min-height: 50%;
     min-width: 50%;
     overflow: hidden;
-}
-
-html body {
-    min-width: 100vw;
-    min-height: 100vh;
+    background-image: url("earth.png");
 }
 
 .bg-container {
@@ -37,8 +33,22 @@ html body {
     background-image: url(cloud.jpg);
 }
 
+.bg-container-3 {
+    background-image: url(cloud.jpg);
+}
+
 .bg-container-4 {
-    background-color: aquamarine;
+    background-image: url(cloud.jpg);
+}
+
+.bg-container3 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    min-height: 40%;
+    min-width: 60%;
+    transition: 2s;
+    opacity: 0;
 }
 
 .bg-container4 {
@@ -53,12 +63,4 @@ html body {
 
 .active {
     opacity: 1;
-}
-
-.prestorytxt {
-    text-align: center;
-    text-transform: uppercase;
-    color: #ff0000;
-    font-family: 'Blanka', sans-serif;
-    font-weight: 400;
 }
