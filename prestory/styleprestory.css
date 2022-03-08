@@ -95,7 +95,7 @@ html body {
 
 span {
     opacity: 0;
-    transition: all 0.4s ease-in;
+    transition: all 0.4s ease;
 }
 
 span.fade {
