@@ -1,3 +1,7 @@
-Congratulation all the planet are in the right socket!
+Congratulations all the planets are in the right sockets!
 Albert sikeresen teljesítette küldetését ezzel beírva magát a naprendszerünk történelmébe. Ám a Repülő Spagetti Szörnyet
-nem sikerült teljesen legyőzni mivel elmenekült, így meradjatok éberek és ha úgy adódik a helyzet segítsetek ismét Albertnek.
+nem sikerült teljesen legyőzni mivel elmenekült, így maradjatok éberek és ha úgy adódik a helyzet segítsetek ismét Albertnek.
+
+English:
+Albert successfully completed his mission,making himself a part of our Solar system's history. However the flying spaghetti isn't defeated yet,
+he managed to escape. Stay aware and if the opportunity arrives, help Albert again.
