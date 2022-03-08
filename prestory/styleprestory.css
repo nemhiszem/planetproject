@@ -37,22 +37,8 @@ html body {
     background-image: url(cloud.jpg);
 }
 
-.bg-container-3 {
-    background-image: url(cloud.jpg);
-}
-
 .bg-container-4 {
-    background-image: url(cloud.jpg);
-}
-
-.bg-container3 {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    min-height: 40%;
-    min-width: 60%;
-    transition: 2s;
-    opacity: 0;
+    background-color: aquamarine;
 }
 
 .bg-container4 {
@@ -67,4 +53,12 @@ html body {
 
 .active {
     opacity: 1;
+}
+
+.prestorytxt {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ff0000;
+    font-family: 'Blanka', sans-serif;
+    font-weight: 400;
 }
