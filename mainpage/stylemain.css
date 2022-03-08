@@ -2,12 +2,13 @@
 body {
     margin: 0px;
     overflow: hidden;
+}
 
-}
-body, html, video {
-    min-width: 100vw;
+body html video {
     min-height: 100vh;
+    min-width: 100vw;
 }
+
 .video-container {
     position: absolute;
     min-width: 100vw;
