@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\earth",
+    "\\jupiter",
+    "\\mars",
+    "\\mercury",
+    "\\neptune"
   ],
-  "SelectedNode": "\\C:\\Users\\User\\Source\\Repos\\planetproject",
+  "SelectedNode": "\\mars\\mars.js",
   "PreviewInSolutionExplorer": false
 }
