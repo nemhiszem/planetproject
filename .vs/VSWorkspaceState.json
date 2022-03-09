@@ -1,16 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\earth",
-    "\\mars",
-    "\\mercury",
-    "\\neptune",
-    "\\solarsystem",
-    "\\starurn",
-    "\\sun",
-    "\\uranus",
-    "\\venus"
+    "\\mainpage"
   ],
-  "SelectedNode": "\\earth\\earth.js",
+  "SelectedNode": "\\mainpage\\mainpage.html",
   "PreviewInSolutionExplorer": false
 }
