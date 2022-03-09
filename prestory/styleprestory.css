@@ -35,6 +35,7 @@ html body {
     background-position: center;
     min-width: 60vw;
     min-height: 80vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
