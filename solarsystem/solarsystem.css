@@ -1,11 +1,16 @@
 body {
-    background-image: url(../albert.jpg);
-    background-position: center;
-    background-size: contain;
     overflow: hidden;
+    margin: 0px;
 }
 
 html body {
     min-height: 100vh;
     min-width: 100vw;
+}
+
+.planet {
+    min-width: 100vw;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
 }
