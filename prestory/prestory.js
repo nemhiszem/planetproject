@@ -2,7 +2,8 @@ var $el1;
 var $el2;
 var $el3;
 var $el4;
-var $el5
+var $el5;
+var $el6;
 var $button;
 
 setTimeout(function() {
@@ -19,6 +20,11 @@ setTimeout(function nem() {
         $el5.addClass('postActive');
     }, 12000);
 }, 7000);
+
+setTimeout(function nem2() {
+    $el6 = $('.prestorytxt2:not(.active');
+    $el6.addClass('active');
+}, 19000);
 
 //setTimeout(function() {
 //$el4 = $('.bg-container4:not(.active');
@@ -64,4 +70,4 @@ document.getElementById("myButton").onclick = function() {
 setTimeout(function() {
     $button = $('.button_cont:not(.active');
     $button.addClass('active');
-}, 9000);
+}, 20000);
