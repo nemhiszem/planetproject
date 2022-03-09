@@ -31,10 +31,17 @@ html body {
 
 .bg-container-1 {
     background-image: url(sun.jpg);
+    background-position: center;
+    min-width: 60vw;
+    min-height: 80vh;
+    background-repeat: no-repeat;
 }
 
 .bg-container-2 {
     background-image: url(cloud.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .bg-container-4 {
@@ -45,8 +52,8 @@ html body {
     position: fixed;
     bottom: 0;
     right: 0;
-    min-height: 20%;
-    min-width: 40%;
+    min-height: 20vh;
+    min-width: 40vh;
     transition: 2s;
     opacity: 0;
 }
