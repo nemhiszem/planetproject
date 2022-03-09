@@ -10,6 +10,10 @@ html body {
     min-height: 100vh;
 }
 
+p {
+    text-align: center;
+}
+
 .bg-container {
     position: fixed;
     top: 0;
