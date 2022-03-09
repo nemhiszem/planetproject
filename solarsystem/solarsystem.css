@@ -8,9 +8,14 @@ html body {
     min-width: 100vw;
 }
 
-.planet {
+.container {
+    position: relative;
     min-width: 100vw;
-    min-height: 100vh;
-    background-position: center;
-    background-size: cover;
+}
+
+img[usemap] {
+    border: none;
+    height: auto;
+    max-width: 100%;
+    width: auto;
 }
