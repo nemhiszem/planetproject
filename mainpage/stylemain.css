@@ -56,6 +56,7 @@ html body video {
 .audio {
     position: relative;
     text-align: center;
+    display: block;
     width: 50px;
     padding: 10px;
     font-size: 10px;
@@ -66,7 +67,6 @@ html body video {
     letter-spacing: 5px;
     cursor: pointer;
     border-radius: 100px;
-    transition: 1.5s;
     font-family: 'Blanka', sans-serif;
     user-select: none;
 }

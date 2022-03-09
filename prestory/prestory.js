@@ -44,6 +44,9 @@ setTimeout(function() {
 
 document.getElementById("myButton").onclick = function() {
     location.href = "../solarsystem/solarsystem.html";
+    if (value === '') {
+
+    }
 }
 
 setTimeout(function() {
