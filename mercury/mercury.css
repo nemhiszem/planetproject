@@ -2,14 +2,19 @@ body {
     min-height: 50%;
     min-width: 50%;
     overflow: hidden;
-    background-image: url("earth.png");
+    background-color: orange;
+}
+
+html body {
+    min-width: 100vw;
+    min-height: 100vh;
 }
 
 .bg-container {
     position: fixed;
     top: 0;
     left: 0;
-    min-height: 60%;
+    min-height: 80%;
     min-width: 60%;
     transition: 2s;
     opacity: 1;
@@ -19,7 +24,7 @@ body {
     position: fixed;
     top: 0;
     right: 0;
-    min-height: 60%;
+    min-height: 80%;
     min-width: 40%;
     transition: 2s;
     opacity: 0;
@@ -27,40 +32,82 @@ body {
 
 .bg-container-1 {
     background-image: url(sun.jpg);
+    background-position: center;
+    min-width: 60vw;
+    min-height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .bg-container-2 {
     background-image: url(cloud.jpg);
-}
-
-.bg-container-3 {
-    background-image: url(cloud.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .bg-container-4 {
-    background-image: url(cloud.jpg);
-}
-
-.bg-container3 {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    min-height: 40%;
-    min-width: 60%;
-    transition: 2s;
-    opacity: 0;
+    background-color: #000000;
+    user-select: none;
 }
 
 .bg-container4 {
     position: fixed;
     bottom: 0;
     right: 0;
-    min-height: 40%;
-    min-width: 40%;
+    min-height: 20vh;
+    min-width: 40vw;
     transition: 2s;
     opacity: 0;
 }
 
+.prestorytxt {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ff0000;
+    font-weight: 400;
+}
+
+.button_cont {
+    position: fixed;
+    top: 96%;
+    left: 97%;
+    transform: translate(-50%, -50%);
+    transition: 2s;
+    opacity: 0;
+}
+
+.button {
+    position: relative;
+    text-align: center;
+    width: 50px;
+    padding: 1px;
+    font-size: 35px;
+    color: #15f4ee;
+    font-weight: 400;
+    border: 1px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5s;
+    text-decoration: none;
+}
+
+    .button:hover {
+        box-shadow: 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee, 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee;
+        text-shadow: 0 0 1px #15f4ee, 0 0 1px #15f4ee;
+    }
+
 .active {
     opacity: 1;
 }
+
+span {
+    opacity: 0;
+    transition: all 0.4s ease;
+}
+
+    span.fade {
+        opacity: 1;
+    }
