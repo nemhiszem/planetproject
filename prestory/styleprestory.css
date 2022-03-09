@@ -2,6 +2,7 @@ body {
     min-height: 50%;
     min-width: 50%;
     overflow: hidden;
+    background-color: #000000
 }
 
 html body {
@@ -31,22 +32,31 @@ html body {
 
 .bg-container-1 {
     background-image: url(sun.jpg);
+    background-position: center;
+    min-width: 60vw;
+    min-height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .bg-container-2 {
     background-image: url(cloud.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .bg-container-4 {
-    background-color: #0F0A09;
+    background-color: #000000;
+    user-select: none;
 }
 
 .bg-container4 {
     position: fixed;
     bottom: 0;
     right: 0;
-    min-height: 20%;
-    min-width: 40%;
+    min-height: 20vh;
+    min-width: 40vw;
     transition: 2s;
     opacity: 0;
 }
