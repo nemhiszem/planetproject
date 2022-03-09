@@ -26,19 +26,19 @@ html body video {
 .button {
     position: relative;
     text-align: center;
-    width: 275px;
+    display: block;
+    width: 225px;
     padding: 40px;
+    padding-left: 55px;
     font-size: 35px;
     color: #15f4ee;
     font-weight: 400;
     border: 2px solid #15f4ee;
-    text-transform: uppercase;
     letter-spacing: 15px;
-    cursor: pointer;
     border-radius: 100px;
-    transition: 1.5s;
     font-family: 'Blanka', sans-serif;
     text-decoration: none;
+    user-select: none;
 }
 
 .button:hover {
@@ -68,6 +68,7 @@ html body video {
     border-radius: 100px;
     transition: 1.5s;
     font-family: 'Blanka', sans-serif;
+    user-select: none;
 }
 
 .audio:hover {

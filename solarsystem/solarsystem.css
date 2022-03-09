@@ -1,0 +1,11 @@
+body {
+    background-image: url(../albert.jpg);
+    background-position: center;
+    background-size: contain;
+    overflow: hidden;
+}
+
+html body {
+    min-height: 100vh;
+    min-width: 100vw;
+}
