@@ -2,6 +2,7 @@ body {
     min-height: 50%;
     min-width: 50%;
     overflow: hidden;
+    background-color:#000000
 }
 
 html body {
@@ -38,7 +39,8 @@ html body {
 }
 
 .bg-container-4 {
-    background-color: #0F0A09;
+    background-color: #000000;
+    user-select: none;
 }
 
 .bg-container4 {
