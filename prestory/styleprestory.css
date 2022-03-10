@@ -175,13 +175,19 @@ span.away {
 
 #dialog {
     animation: floattext 4s ease-in-out infinite;
+    font-size: 20px;
 }
 
 p {
-    font-size: 20px;
     margin: 0;
     color: white;
 }
+
+#dialogtxt {
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 40px;
+}
+
 #imgaa {
     position: absolute;
     margin-top: 30px;
