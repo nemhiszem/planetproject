@@ -10,7 +10,7 @@ html body {
     min-height: 100vh;
 }
 
-p {
+#pre {
     text-align: center;
     min-height: 12vh;
     min-width: 100vw;
@@ -51,6 +51,15 @@ p {
     background-image: url(jupiter.png);
     background-position: center;
     min-width: 60vw;
+    min-height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-container-2 {
+    background-image: url(hipitihopiti2.jpg);
+    background-position: center;
+    min-width: 40vw;
     min-height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -143,7 +152,7 @@ span.away {
     opacity: 0;
 }
 
-p.postActive {
+.prestorytxt.postActive {
     opacity: 0;
 }
 
@@ -167,6 +176,18 @@ p.postActive {
 .imagesdilog {
     width: 40px;
     height: 40px;
+}
+
+#1img2 {
+    float: left;
+}
+
+#1img {
+    float: left;
+}
+
+p {
+    font-size: 20px;
 }
 
 @keyframes fadein {
