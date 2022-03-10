@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\mainpage",
+    "\\prestory",
+    "\\mercury",
+    "\\solarsystem",
+    "\\starurn",
+    "\\sun",
+    "\\uranus",
+    "\\venus"
   ],
-  "SelectedNode": "\\story.txt",
+  "SelectedNode": "\\earth\\earth.js",
   "PreviewInSolutionExplorer": false
 }
