@@ -191,6 +191,36 @@ p {
     box-sizing: border-box;
 }
 
+
+
+#dialog2 {
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 20px;
+}
+
+p {
+    margin: 0;
+    color: white;
+}
+
+#dialogtxt2 {
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 40px;
+}
+
+#spagaa {
+    position: relative;
+    margin-bottom: 300px;
+    margin-left: 470px;
+}
+
+#spaga {
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    margin-left: 660px;
+}
+
 @keyframes fadein {
     from {
         opacity: 0;
@@ -210,6 +240,18 @@ p {
 	box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
 	transform: translatey(0px);
 	animation: float 4s ease-in-out infinite;
+}
+
+.imagesdilog2 {
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 2px white solid;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
+    transform: translatey(0px);
+    animation: float 4s ease-in-out infinite;
 }
 
 @keyframes float {
@@ -268,4 +310,3 @@ p {
         box-shadow: 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee, 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee;
         text-shadow: 0 0 3px #15f4ee, 0 0 3px #15f4ee;
     }
-
