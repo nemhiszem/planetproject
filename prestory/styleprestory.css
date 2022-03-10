@@ -238,3 +238,34 @@ p {
 		transform: translatey(0px);
 	}
 }
+
+.audio_cont {
+    position: absolute;
+    top: 5%;
+    left: 97%;
+    transform: translate(-50%, -50%);
+}
+
+.audio {
+    position: relative;
+    text-align: center;
+    display: block;
+    width: 50px;
+    padding: 10px;
+    font-size: 10px;
+    color: #15f4ee;
+    font-weight: 400;
+    border: 2px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    cursor: pointer;
+    border-radius: 100px;
+    font-family: 'Blanka', sans-serif;
+    user-select: none;
+}
+
+    .audio:hover {
+        box-shadow: 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee, 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee;
+        text-shadow: 0 0 3px #15f4ee, 0 0 3px #15f4ee;
+    }
+
