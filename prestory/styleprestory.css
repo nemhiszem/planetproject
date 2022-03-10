@@ -10,14 +10,31 @@ html body {
     min-height: 100vh;
 }
 
+p {
+    text-align: center;
+    min-height: 12vh;
+    min-width: 100vw;
+    font-size: 25px;
+}
+
 .bg-container {
     position: fixed;
     top: 0;
     left: 0;
-    min-height: 80%;
-    min-width: 60%;
+    min-height: 80vh;
+    min-width: 60vw;
     transition: 2s;
     opacity: 1;
+}
+
+.bg-container3 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 80vh;
+    min-width: 60vw;
+    transition: 2s;
+    opacity: 0;
 }
 
 .bg-container2 {
@@ -31,7 +48,16 @@ html body {
 }
 
 .bg-container-1 {
-    background-image: url(sun.jpg);
+    background-image: url(jupiter.png);
+    background-position: center;
+    min-width: 60vw;
+    min-height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-container-3 {
+    background-image: url(solarsystem.jpg);
     background-position: center;
     min-width: 60vw;
     min-height: 80vh;
@@ -68,7 +94,7 @@ html body {
     bottom: 0;
     right: 0;
     min-height: 12vh;
-    min-width: 40vw;
+    min-width: 100vw;
     text-align: center;
     text-transform: uppercase;
     color: #ff0000;
@@ -81,7 +107,7 @@ html body {
     bottom: 0;
     right: 0;
     min-height: 12vh;
-    min-width: 40vw;
+    min-width: 100vw;
     text-align: center;
     text-transform: uppercase;
     color: #ff0000;
@@ -140,6 +166,10 @@ p.postActive {
     -o-animation: fadein 2s;
     /* Opera < 12.1 */
     animation: fadein 2s;
+}
+
+.notactive {
+    opacity: 0;
 }
 
 @keyframes fadein {
