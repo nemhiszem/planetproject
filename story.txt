@@ -30,4 +30,60 @@ prestory dialog:
   Albert: You are right, but mankind will eventually unite, and together they will be able to defeat you.
           I'm just a messenger(lie, because the mankind doesn't know about the spagetti monster yet).
 
-        BANANA
+
+
+  Merkúr:
+  Albertnek nem kellett sokat dolgoznia Merkúrral a bolygó kis mérete miatt. De még sokat kell tennie ahhoz hogy legyőzze a gonosz spagetti szörnyet.
+  
+  Mercury:
+  Albert had little to no struggles with Mercury due to it's small size. But he has a lot to do before he can defeat the evil spaghetti monster.
+  
+  Merkur:
+  Albert havde lidt eller ingen problemer med Mercury på grund af dets lille størrelse. Men han har meget at lave, før han kan besejre det onde spaghettimonster.
+  --------------------------------------------------------------
+  Vénusz:
+  Amikor Albert odaért Vénuszhoz, a spagetti szörny ott várt rá.
+  Spagetti szörny: - Nem tudsz legyőzni Albert, az összes kis bolygót ellöktem a helyéről!
+  Albert: - Igen is le tudlak és le is foglak győzni akármennyi bolygó áll köztünk!
+  És ezzel Albert megfogta Vénuszt és visszatette az eredeti helyére, miközben a spegetti szörny elmenekül.
+  
+  Venus:
+  When Albert reached Venus, the spaghetti monster was there waiting for him. 
+  Spahetti monster: - You can't defeat me Albert I pushed all of these tiny planets off their orbits!
+  Albert: - Yes, I can and I will defeat you no matter how many planets I have to save!
+  And with this, Albert took Venus and put it back to it's place, while the spaghetti monster escaped.
+  
+  Venus:
+  Da Albert nåede Venus, stod spaghettimonstret og ventede på ham.
+  Spahetti monster: - Du kan ikke besejre mig Albert Jeg skubbede alle disse små planeter væk fra deres baner!
+  Albert: - Ja, det kan jeg, og jeg vil besejre dig, uanset hvor mange planeter jeg skal redde!
+  Og med dette tog Albert Venus og satte den tilbage til sin plads, mens spaghettimonstret undslap.
+  ----------------------------------------------------------------
+  Föld:
+  Earth:
+  Jorden:
+  ----------------------------------------------------------------
+  Mars:
+  Mars:
+  Mars:
+  ----------------------------------------------------------------
+  Jupiter:
+  Jupiter:
+  Jupiter:
+  ----------------------------------------------------------------
+  Szaturnusz:
+  Saturn:
+  Saturn:
+  ----------------------------------------------------------------
+  Uránusz:
+  Uranus:
+  Uranus:
+  ----------------------------------------------------------------
+  Neptunusz:
+  Neptune:
+  Neptun:
+  ----------------------------------------------------------------
+  Pluto:
+  Pluto:
+  Pluto:
+  ----------------------------------------------------------------
