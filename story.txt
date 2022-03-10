@@ -25,4 +25,7 @@ Albert died upon reentry after a parachute failure caused his capsule to impact 
 His respiratory and cardiological data were recorded up to moment of impact.
 
 prestory dialog:
-  You can't do that
+  Albert: Don't do that.
+  Spagetti: You can't stop me Albert.
+  Albert: You are right, but the mankind eventually uniting and togather abe to defeat you.
+          I'm just messenger(lie, because the mankind don'T know about the spagetti monster yet).
