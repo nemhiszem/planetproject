@@ -4,6 +4,8 @@ var $el3;
 var $el4;
 var $el5;
 var $el6;
+var $el7;
+var $el8;
 var $button;
 
 setTimeout(function() {
@@ -11,6 +13,15 @@ setTimeout(function() {
     $el2 = $('.bg-container2:not(.active');
     $el2.addClass('active');
 }, 2000);
+
+setTimeout(function() {
+    $el7 = $('.bg-container-1:not(.notactive');
+    $el7.addClass('notactive');
+}, 10000);
+setTimeout(function nem2() {
+    $el6 = $('.bg-container3:not(.active');
+    $el6.addClass('active');
+}, 12000);
 
 setTimeout(function nem() {
     $el5 = $('.prestorytxt:not(.active');

@@ -23,3 +23,9 @@ Memory of ALbert the second:
 Albert II, a rhesus monkey, was the first primate and first mammal in space in June 14, 1949.
 Albert died upon reentry after a parachute failure caused his capsule to impact the ground.
 His respiratory and cardiological data were recorded up to moment of impact.
+
+prestory dialog:
+  Albert: Don't do that.
+  Spagetti: You can't stop me Albert.
+  Albert: You are right, but the mankind eventually uniting and togather abe to defeat you.
+          I'm just messenger(lie, because the mankind don'T know about the spagetti monster yet).
