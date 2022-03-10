@@ -189,9 +189,9 @@ p {
 }
 
 #imgaa {
-    position: absolute;
+    position: relative;
     margin-top: 30px;
-    margin-right: 45px;
+    margin-left: 145px;
 }
 
 #imga {
