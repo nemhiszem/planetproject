@@ -178,16 +178,13 @@ span.away {
     height: 40px;
 }
 
-#1img2 {
-    float: left;
-}
-
-#1img {
+#dialog {
     float: left;
 }
 
 p {
     font-size: 20px;
+    margin: 0;
 }
 
 @keyframes fadein {
