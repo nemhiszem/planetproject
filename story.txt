@@ -29,3 +29,8 @@ prestory dialog:
   Spagetti: You can't stop me Albert.
   Albert: You are right, but mankind will eventually unite, and together they will be able to defeat you.
           I'm just a messenger(lie, because the mankind doesn't know about the spagetti monster yet).
+
+Merkúr:
+Albertnek nem kellett sokat dolgoznia Merkúrral a bolygó kis mérete miatt, de még sok áll előtte.
+English:
+Albert had little to no struggles with Mercury due to it's small size, but he still has a lot to do.
