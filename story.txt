@@ -36,7 +36,7 @@ prestory dialog:
   Albertnek nem kellett sokat dolgoznia Merkúrral a bolygó kis mérete miatt. De még sokat kell tennie ahhoz hogy legyőzze a gonosz spagetti szörnyet.
   
   Mercury:
-  Albert had little to no struggles with Mercury due to it's small size. But he has a lot to do before he can defeat the evil spaghetti monster.
+  Albert had almost no struggles with Mercury due to it's small size. But he has a lot to do before he can defeat the evil spaghetti monster.
   
   Merkur:
   Albert havde lidt eller ingen problemer med Mercury på grund af dets lille størrelse. Men han har meget at lave, før han kan besejre det onde spaghettimonster.
@@ -59,8 +59,8 @@ prestory dialog:
   Albert: - Ja, det kan jeg, og jeg vil besejre dig, uanset hvor mange planeter jeg skal redde!
   Og med dette tog Albert Venus og satte den tilbage til sin plads, mens spaghettimonstret undslap.
   ----------------------------------------------------------------
-  Föld:
-  Earth:
+  Föld:Albert otthona a Föld is a szörny tettének áldozata lett, Albert elgondolkodott azon hogy mi lehet az oka annak hogy a szörny ezt tette, miközben pályára állította a bolygót.
+  Earth:Albert's home planet Earth was a victim to the monster too, he started thinking about the reason behind the monster's actions while getting the planet back to it's orbit.
   Jorden:
   ----------------------------------------------------------------
   Mars:
