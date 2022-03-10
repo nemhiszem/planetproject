@@ -173,22 +173,30 @@ span.away {
     opacity: 0;
 }
 
-.imagesdilog {
-    width: 40px;
-    height: 40px;
-}
-
 #dialog {
-    float: left;
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 20px;
 }
 
 p {
-    font-size: 20px;
     margin: 0;
     color: white;
 }
+
+#dialogtxt {
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 40px;
+}
+
 #imgaa {
-    position: absolute;
+    position: relative;
+    margin-top: 30px;
+    margin-left: 145px;
+}
+
+#imga {
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 @keyframes fadein {
@@ -243,4 +251,43 @@ p {
     to {
         opacity: 1;
     }
+}
+
+.imagesdilog {
+	width: 40px;
+	height: 40px;
+	box-sizing: border-box;
+	border: 2px white solid;
+	border-radius: 50%;
+	overflow: hidden;
+	box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
+	transform: translatey(0px);
+	animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+	0% {
+		box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
+		transform: translatey(0px);
+	}
+	50% {
+		box-shadow: 0 22px 12px 0px rgba(0,0,0,0.2);
+		transform: translatey(-15px);
+	}
+	100% {
+		box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
+		transform: translatey(0px);
+	}
+}
+
+@keyframes floattext {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-15px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
 }
