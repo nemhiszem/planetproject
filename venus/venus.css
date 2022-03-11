@@ -3,22 +3,26 @@ body {
     background-position: center;
     background-size: cover;
     position: relative;
+    overflow: hidden;
 }
 #planet {
-    height: 100vh;
+    height: 60vh;
     animation: fadein 2s;
 }
 #planet img {
-    height: 100vh;
+    height: 60vh;
+    max-width: 60vw;
     max-width: auto !important;
 }
 #magic{
     width: 120px;
     float: right;
+    animation: fadein 2s;
 }
 #magictwo{
     width: 120px;
     float: left;
+    animation: fadein 2s;
 }
 #spagettimonster{
     height: 40px;
@@ -51,7 +55,19 @@ body {
     color: black;
 }
 .dialogtxt{
-    float: left;
+    font-size: 25px;
+    font-style: italic;
+    animation: fadein 2s;
+}
+.dialogtxttwo{
+    font-size: 25px;
+    font-style: italic;
+    animation: fadein 2s;
+}
+.dialogtxtthre{
+    font-size: 25px;
+    font-style: italic;
+    animation: fadein 2s;
 }
 @keyframes float {
 	0% {
