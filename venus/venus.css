@@ -14,15 +14,15 @@ body {
     max-width: 60vw;
     max-width: auto !important;
 }
-#magic{
+.magic{
     width: 120px;
     float: right;
-    animation: fadein 2s;
+    opacity: 0;
 }
-#magictwo{
+.magictwo{
     width: 120px;
     float: left;
-    animation: fadein 2s;
+    opacity: 0;
 }
 #spagettimonster{
     height: 40px;
@@ -57,17 +57,26 @@ body {
 .dialogtxt{
     font-size: 25px;
     font-style: italic;
-    animation: fadein 2s;
+    opacity: 0;
 }
 .dialogtxttwo{
     font-size: 25px;
     font-style: italic;
-    animation: fadein 2s;
+    opacity: 0;
 }
 .dialogtxtthre{
     font-size: 25px;
     font-style: italic;
+    opacity: 0;
+}
+.facts{
+    font-size: 40px;
+    font-style: italic;
+    opacity: 0;
+}
+.active{
     animation: fadein 2s;
+    opacity: 1;
 }
 @keyframes float {
 	0% {
