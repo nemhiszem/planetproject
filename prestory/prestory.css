@@ -1,0 +1,8 @@
+body {
+    min-height: 50%;
+    min-width: 50%;
+    overflow: hidden;
+    background-color: #000000;
+    Background-image: url(hatter.jpg);
+    background-size: cover;
+}
