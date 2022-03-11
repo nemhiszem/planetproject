@@ -2,7 +2,9 @@ body {
     min-height: 50%;
     min-width: 50%;
     overflow: hidden;
-    background-color: #000000
+    background-color: #000000;
+    Background-image: url(hipitihopiti2.jpg);
+    background-size: cover;
 }
 
 html body {
@@ -50,14 +52,13 @@ html body {
 .bg-container-1 {
     background-image: url(jupiter.png);
     background-position: center;
-    min-width: 60vw;
+    max-width: 60vw;
     min-height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .bg-container-2 {
-    background-image: url(hipitihopiti2.jpg);
     background-position: center;
     min-width: 40vw;
     min-height: 80vh;
@@ -98,9 +99,10 @@ html body {
     min-width: 100vw;
     text-align: center;
     text-transform: uppercase;
-    color: #ff0000;
+    color: white;
     font-weight: 400;
     opacity: 0;
+    user-select: none;
 }
 
 .prestorytxt2 {
@@ -111,9 +113,10 @@ html body {
     min-width: 100vw;
     text-align: center;
     text-transform: uppercase;
-    color: #ff0000;
+    color: white;
     font-weight: 400;
     opacity: 0;
+    user-select: none;
 }
 
 
@@ -129,10 +132,11 @@ html body {
 .button {
     position: relative;
     font-size: 35px;
-    color: #ff0000;
+    color: white;
     font-weight: 400;
     cursor: pointer;
     text-decoration: none;
+    user-select: none;
 }
 
 .button:hover {
@@ -178,17 +182,54 @@ p {
 #dialogtxt {
     animation: floattext 4s ease-in-out infinite;
     font-size: 40px;
+    user-select: none;
 }
 
 #imgaa {
     position: relative;
     margin-top: 30px;
     margin-left: 145px;
+    user-select: none;
 }
 
 #imga {
     padding: 20px;
     box-sizing: border-box;
+    user-select: none;
+}
+
+
+
+#dialog2 {
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 20px;
+    user-select: none;
+}
+
+p {
+    margin: 0;
+    color: white;
+}
+
+#dialogtxt2 {
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 40px;
+    user-select: none;
+}
+
+#spagaa {
+    position: relative;
+    margin-bottom: 300px;
+    margin-left: 470px;
+    user-select: none;
+}
+
+#spaga {
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    margin-left: 660px;
+     user-select: none;
 }
 
 #imgaab {
@@ -224,6 +265,18 @@ p {
 	box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
 	transform: translatey(0px);
 	animation: float 4s ease-in-out infinite;
+}
+
+.imagesdilog2 {
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 2px white solid;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
+    transform: translatey(0px);
+    animation: float 4s ease-in-out infinite;
 }
 
 @keyframes float {

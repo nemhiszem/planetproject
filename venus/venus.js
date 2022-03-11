@@ -14,7 +14,7 @@ setTimeout(function () {
 setTimeout(function () {
     $el4 = $('.bg-container4:not(.active');
     $el4.addClass('active');
-    const text = document.querySelector(".prestorytxt");
+    /*const text = document.querySelector(".prestorytxt");
     const strtext = text.textContent;
     const splittext = strtext.split("");
     text.textContent = "";
@@ -39,7 +39,7 @@ setTimeout(function () {
     function complete() {
         clearInterval(timer);
         timer = null;
-    }
+    }*/
 }, 7000);
 
 document.getElementById("myButton").onclick = function () {
