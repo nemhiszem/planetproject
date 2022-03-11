@@ -26,7 +26,7 @@ html body {
 .bg-container-1 {
     background-image: url(venus.png);
     box-sizing: border-box;
-	border: 2px white solid;
+	border: 5px white solid;
 	border-radius: 50%;
 	overflow: hidden;
 	box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
