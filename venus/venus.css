@@ -2,7 +2,7 @@
     display: none;
   }
 body {
-    background-image: url('space_monkey.gif');
+    background-image: url('spacemonke.gif');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -10,11 +10,11 @@ body {
     max-height: 100vh;
 }
 #planet {
-    max-height: 60vh;
+    min-height: 60vh;
     animation: fadein 2s;
 }
 #planet img {
-    max-height: 60vh;
+    min-height: 60vh;
 }
 .magic{
     width: 120px;
@@ -86,8 +86,8 @@ body {
     font-size: 40px;
     font-style: italic;
     opacity: 0;
-    max-height: 40vh !important;
-    max-width: 100vw !important;
+    min-height: 40vh !important;
+    min-width: 100vw !important;
     background-color: rgba(173, 155, 155, 0.5);
     padding: 2px;
     border-radius: 20px;
@@ -95,6 +95,8 @@ body {
 }
 .factscontainer{
     padding: 10px;
+    margin-bottom: 20px;
+    max-height: 40vh;
 }
 .active{
     animation: fadein 2s;
