@@ -36,7 +36,7 @@ prestory dialog:
   Albertnek nem kellett sokat dolgoznia Merkúrral a bolygó kis mérete miatt. De még sokat kell tennie ahhoz hogy legyőzze a gonosz spagetti szörnyet.
   
   Mercury:
-  Albert had little to no struggles with Mercury due to it's small size. But he has a lot to do before he can defeat the evil spaghetti monster.
+  Albert had almost no struggles with Mercury due to it's small size. But he has a lot to do before he can defeat the evil spaghetti monster.
   
   Merkur:
   Albert havde lidt eller ingen problemer med Mercury på grund af dets lille størrelse. Men han har meget at lave, før han kan besejre det onde spaghettimonster.
@@ -60,30 +60,52 @@ prestory dialog:
   Og med dette tog Albert Venus og satte den tilbage til sin plads, mens spaghettimonstret undslap.
   ----------------------------------------------------------------
   Föld:
+  Albert otthona a Föld is a szörny tettének áldozata lett, Albert elgondolkodott azon hogy mi lehet az oka annak hogy a szörny ezt tette, miközben pályára állította a bolygót.
+  
   Earth:
+  Albert's home planet Earth was a victim to the monster too, he started thinking about the reason behind the monster's actions while getting the planet back to it's orbit.
+  
   Jorden:
   ----------------------------------------------------------------
+  Mars:A szörnynek szemet szúrt, hogy az egyik bolygó a szószának színét viseli. Albert viccesnek találta ezt és nagyot nevetett rajta, de a szörny egyre dühösebb lett és elhagyta a helyszínt. Albert visszalökte a vörös bolygót a pályájára, eközben a szörny a többi bolygón engedte ki egyre csak nagyobb dühét.
+  
+  Mars: The monster saw that one planet resembles the color of his sauce. Albert found that funny and laughed but the monster got angrier and left the place. Albert took the red planet back to it's orbit, meanwhile the monster took out his increasing anger on the other planets.
+  
   Mars:
-  Mars:
-  Mars:
+
   ----------------------------------------------------------------
+  Jupiter: Jupiter egy kicsit komolyabb meló volt, csak a mérete megrémisztette Albertet, de nagy erőfeszítéssel és egy pár banánnal sikerült a helyére tolni a gázóriást.
+
+  Jupiter: Jupiter was a tough one to work with, it's size shocked Albert but he managed to take the gas giant to it's place with a lot of effort and a few bananas for power.
+  
   Jupiter:
-  Jupiter:
-  Jupiter:
+  
   ----------------------------------------------------------------
-  Szaturnusz:
+  Szaturnusz: Szaturnusz más volt mint a többi mert szét lettek szórva a gyűrűi is. Albert vett egy mély levegőt és nekiállt helyreállítani a bolygót. Eközben a spagetti szörny figyelte Albertet és a cselekedeteit.
+  
+  Saturn: Saturn was different from the others with it's rings being all around the place. Albert took a deep breath and got to work on restoring the planet. Meanwhile the spaghetti monster was watching Albert and his actions.
+  
   Saturn:
-  Saturn:
+  
   ----------------------------------------------------------------
-  Uránusz:
+  Uránusz: Albert és Uránusz egy hideg történet volt. A jégóriás messze elcsúszott a pályájáról, de Albertnek volt egy tökéletes ötlete hogy hogyan csúsztassa vissza a bolygót.
+  
+  Uranus: Albert and Uranus was a cold story. The giant ice planet has slipped far from it's orbit, but Albert had the perfect idea on how to slide the planet back.
+  
   Uranus:
-  Uranus:
+  
   ----------------------------------------------------------------
   Neptunusz:
+  
   Neptune:
+  
   Neptun:
+  
   ----------------------------------------------------------------
   Pluto:
+  
   Pluto:
+  
   Pluto:
+  
   ----------------------------------------------------------------
