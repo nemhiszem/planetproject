@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\prestory"
+    "\\planetproject",
+    "\\venus"
   ],
-  "SelectedNode": "\\earth",
+  "SelectedNode": "\\story.txt",
   "PreviewInSolutionExplorer": false
 }
