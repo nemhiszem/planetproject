@@ -149,7 +149,7 @@ prestory dialog:
   Albert og Uranus var en kold historie. Den gigantiske isplanet er skredet langt væk fra sin bane, men Albert havde den perfekte idé til, hvordan planeten skulle glide tilbage.
   
   ----------------------------------------------------------------
-  Neptunusz:
+  Neptunusz: 
   
   Neptune:
   
