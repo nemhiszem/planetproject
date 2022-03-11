@@ -3,6 +3,11 @@ body {
     min-width: 50%;
     overflow: hidden;
     background-color: #000000;
-    Background-image: url(hatter.jpg);
+    Background-image: url(hipitihopiti2.jpg);
     background-size: cover;
+}
+
+html body {
+    min-width: 100vw;
+    min-height: 100vh;
 }
