@@ -10,7 +10,7 @@ html body {
     min-height: 100vh;
 }
 
-p {
+#pre {
     text-align: center;
     min-height: 12vh;
     min-width: 100vw;
@@ -51,6 +51,15 @@ p {
     background-image: url(jupiter.png);
     background-position: center;
     min-width: 60vw;
+    min-height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-container-2 {
+    background-image: url(hipitihopiti2.jpg);
+    background-position: center;
+    min-width: 40vw;
     min-height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -143,20 +152,12 @@ span.away {
     opacity: 0;
 }
 
-p.postActive {
+.prestorytxt.postActive {
     opacity: 0;
 }
 
 .active {
     opacity: 1;
-    -webkit-animation: fadein 2s;
-    /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fadein 2s;
-    /* Firefox < 16 */
-    -ms-animation: fadein 2s;
-    /* Internet Explorer */
-    -o-animation: fadein 2s;
-    /* Opera < 12.1 */
     animation: fadein 2s;
 }
 
@@ -164,9 +165,44 @@ p.postActive {
     opacity: 0;
 }
 
-.imagesdilog {
-    width: 40px;
-    height: 40px;
+#dialog {
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 20px;
+}
+
+p {
+    margin: 0;
+    color: white;
+}
+
+#dialogtxt {
+    animation: floattext 4s ease-in-out infinite;
+    font-size: 40px;
+}
+
+#imgaa {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 145px;
+}
+
+#imga {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#imgaab {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 145px;
+    float: right;
+}
+
+#imgab {
+    margin-top: 80px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: right;
 }
 
 @keyframes fadein {
@@ -178,47 +214,72 @@ p.postActive {
     }
 }
 
-@-moz-keyframes fadein {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
+.imagesdilog {
+	width: 40px;
+	height: 40px;
+	box-sizing: border-box;
+	border: 2px white solid;
+	border-radius: 50%;
+	overflow: hidden;
+	box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
+	transform: translatey(0px);
+	animation: float 4s ease-in-out infinite;
 }
 
-
-/* Safari, Chrome and Opera > 12.1 */
-
-@-webkit-keyframes fadein {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
+@keyframes float {
+	0% {
+		box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
+		transform: translatey(0px);
+	}
+	50% {
+		box-shadow: 0 22px 12px 0px rgba(0,0,0,0.2);
+		transform: translatey(-15px);
+	}
+	100% {
+		box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
+		transform: translatey(0px);
+	}
 }
 
-
-/* Internet Explorer */
-
-@-ms-keyframes fadein {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
+@keyframes floattext {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-15px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
 }
 
-
-/* Opera < 12.1 */
-
-@-o-keyframes fadein {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
+.audio_cont {
+    position: absolute;
+    top: 5%;
+    left: 97%;
+    transform: translate(-50%, -50%);
 }
+
+.audio {
+    position: relative;
+    text-align: center;
+    display: block;
+    width: 50px;
+    padding: 10px;
+    font-size: 10px;
+    color: #15f4ee;
+    font-weight: 400;
+    border: 2px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    cursor: pointer;
+    border-radius: 100px;
+    font-family: 'Blanka', sans-serif;
+    user-select: none;
+}
+
+    .audio:hover {
+        box-shadow: 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee, 0 1px 10px 0 #15f4ee inset, 0 1px 10px 0 #15f4ee;
+        text-shadow: 0 0 3px #15f4ee, 0 0 3px #15f4ee;
+    }
+
