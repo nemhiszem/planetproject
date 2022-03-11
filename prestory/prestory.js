@@ -82,3 +82,17 @@ setTimeout(function() {
     $button = $('.button_cont:not(.active');
     $button.addClass('active');
 }, 20000);
+
+var nem = false;
+
+function play() {
+    var audio = document.getElementById("audio");
+    if (nem) {
+        audio.pause();
+        nem = false;
+    } else {
+        audio.loop = true;
+        audio.play();
+        nem = true;
+    }
+}
