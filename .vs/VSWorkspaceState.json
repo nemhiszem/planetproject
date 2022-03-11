@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\planetproject",
-    "\\venus"
+    "\\mainpage",
+    "\\prestory"
   ],
-  "SelectedNode": "\\story.txt",
+  "SelectedNode": "\\prestory\\prestory.js",
   "PreviewInSolutionExplorer": false
 }
