@@ -4,7 +4,6 @@ body {
     background-size: cover;
     position: relative;
 }
-
 #planet {
     height: 80vh;
 }
@@ -12,10 +11,13 @@ body {
     height: 80vh;
     max-width: auto !important;
 }
-
 #magic{
     width: 120px;
     float: right;
+}
+#magictwo{
+    width: 120px;
+    float: left;
 }
 #spagettimonster{
     height: 40px;
@@ -34,7 +36,6 @@ body {
 	transform: translatey(0px);
 	animation: float 4s ease-in-out infinite;
 }
-
 #txtone {
     float: right;
     animation: float 4s ease-in-out infinite;
@@ -42,14 +43,15 @@ body {
     border-radius: 5px;
     color: black;
 }
-
 #txttwo{
     animation: float 4s ease-in-out infinite;
     background-color: white;
     border-radius: 5px;
     color: black;
 }
-
+.dialogtxt{
+    float: left;
+}
 @keyframes float {
 	0% {
 		box-shadow: 0 2px 12px 0px rgba(0,0,0,0.6);
