@@ -49,6 +49,7 @@ body {
     background-color: white;
     border-radius: 5px;
     color: black;
+    line-height: 20px;
 }
 #txttwo{
     animation: float 4s ease-in-out infinite;
@@ -64,6 +65,7 @@ body {
     padding: 2px;
     margin-left: 150px;
     border-radius: 20px;
+    line-height: 30px;
 }
 .dialogtxttwo{
     font-size: 25px;
@@ -73,6 +75,7 @@ body {
     padding: 2px;
     margin-right: 150px;
     border-radius: 20px;
+    line-height: 30px;
 }
 .dialogtxtthre{
     font-size: 25px;
@@ -81,6 +84,7 @@ body {
     background-color: rgba(173, 155, 155, 0.5);
     padding: 2px;
     border-radius: 20px;
+    line-height: 30px;
 }
 .facts{
     font-size: 40px;
