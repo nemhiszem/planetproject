@@ -95,16 +95,16 @@ prestory dialog:
   Uranus:
   
   ----------------------------------------------------------------
-  Neptunusz:
+  Neptunusz:Neptunusz, az óriás bolygó olyan erős szelekkel ami majdnem elfújta Albertet. Sikerült neki elkerülni az erősebb széllöketeket és visszarakni a bolygót a pályájára. 
   
-  Neptune:
+  Neptune:Neptune, the giant planet with winds that almost blew Albert away. He managed to avoid the heavy wind and placed the planet onto it's orbit.
   
   Neptun:
   
   ----------------------------------------------------------------
-  Pluto:
+  Pluto:Az ismeretlen, Pluto fura érzést adott Albertnek mert nem tudta hogy Pluto egy feljegyzett bolygó a naprendszerben.
   
-  Pluto:
+  Pluto:The great unknown, Pluto gave Albert weird feelings since Albert didn't knew about Pluto being a planet in the solar system.
   
   Pluto:
   
