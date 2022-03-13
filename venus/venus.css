@@ -1,3 +1,8 @@
+@media screen and (min-height: 900px){
+    .facts{
+        line-height: 80px;
+    }
+}
 ::-webkit-scrollbar {
     display: none;
   }
@@ -142,10 +147,5 @@ body {
     }
     to {
         opacity: 1;
-    }
-}
-@media (min-width: 900px){
-    .facts{
-        line-height: 80px;
     }
 }
