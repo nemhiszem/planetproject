@@ -23,6 +23,15 @@
         line-height: 100px;
         font-size: 50px !important;
     }
+    .dialogtxttwo{
+        font-size: 45px !important;
+    }
+    .dialogtxt{
+        font-size: 45px !important;
+    }
+    .dialogtxtthre{
+        font-size: 45px !important;
+    }
 }
 ::-webkit-scrollbar {
     display: none;
