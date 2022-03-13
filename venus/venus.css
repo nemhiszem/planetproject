@@ -50,6 +50,7 @@ body {
     max-height: 60vh;
     min-height: 60vh;
     animation: fadein 2s;
+    padding-top: 15px;
 }
 #planet img {
     max-height: 60vh;
