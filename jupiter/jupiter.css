@@ -45,7 +45,6 @@ body {
     min-width: 100vw;
     max-height: 100vh;
     min-height: 100vh;
-    line-height: 1 !important;
 }
 #planet {
     max-height: 60vh;
@@ -110,6 +109,7 @@ body {
     padding: 2px;
     margin-left: 150px;
     border-radius: 20px;
+    line-height: 1 !important;
     /*line-height: 30px;*/
 }
 .dialogtxttwo{
@@ -120,6 +120,7 @@ body {
     padding: 2px;
     margin-right: 150px;
     border-radius: 20px;
+    line-height: 1 !important;
     /*line-height: 30px;*/
 }
 .dialogtxtthre{
@@ -129,6 +130,7 @@ body {
     background-color: rgba(173, 155, 155, 0.5);
     padding: 2px;
     border-radius: 20px;
+    line-height: 1 !important;
     /*line-height: 30px;*/
 }
 .facts{
