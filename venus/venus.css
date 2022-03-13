@@ -146,6 +146,6 @@ body {
 }
 @media screen and (min-width: 900px){
     .facts{
-        line-height: 40px;
+        line-height: 60px;
     }
 }
