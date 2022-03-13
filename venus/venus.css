@@ -3,6 +3,11 @@
         line-height: 80px;
     }
 }
+@media screen and (min-height: 940px) {
+    .facts {
+        line-height: 100px;
+    }
+}
 @media screen and (min-height: 680px){
     .facts{
         line-height: 70px;
