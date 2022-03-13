@@ -8,6 +8,15 @@
         line-height: 80px;
         font-size: 50px !important;
     }
+    .dialogtxttwo{
+        font-size: 35px !important;
+    }
+    .dialogtxtone{
+        font-size: 35px !important;
+    }
+    .dialogtxtthre{
+        font-size: 35px !important;
+    }
 }
 @media screen and (min-height: 1000px){
     .facts{
