@@ -1,16 +1,36 @@
-@media screen and (min-height: 900px){
-    .facts{
-        line-height: 80px;
-    }
-}
-@media screen and (min-height: 940px) {
-    .facts {
-        line-height: 100px;
-    }
-}
 @media screen and (min-height: 680px){
     .facts{
         line-height: 70px;
+    }
+}
+@media screen and (min-height: 900px){
+    .facts{
+        line-height: 80px;
+        font-size: 50px !important;
+    }
+    .dialogtxttwo{
+        font-size: 35px !important;
+    }
+    .dialogtxt{
+        font-size: 35px !important;
+    }
+    .dialogtxtthre{
+        font-size: 35px !important;
+    }
+}
+@media screen and (min-height: 1000px){
+    .facts{
+        line-height: 100px;
+        font-size: 50px !important;
+    }
+    .dialogtxttwo{
+        font-size: 45px !important;
+    }
+    .dialogtxt{
+        font-size: 45px !important;
+    }
+    .dialogtxtthre{
+        font-size: 45px !important;
     }
 }
 ::-webkit-scrollbar {
@@ -30,6 +50,7 @@ body {
     max-height: 60vh;
     min-height: 60vh;
     animation: fadein 2s;
+    padding-top: 15px;
 }
 #planet img {
     max-height: 60vh;
