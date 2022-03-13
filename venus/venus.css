@@ -6,7 +6,7 @@
 @media screen and (min-height: 900px){
     .facts{
         line-height: 80px;
-        font-size: 50px;
+        font-size: 50px !important;
     }
 }
 ::-webkit-scrollbar {
