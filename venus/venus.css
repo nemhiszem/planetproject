@@ -1,12 +1,12 @@
+@media screen and (min-height: 680px){
+    .facts{
+        line-height: 70px;
+    }
+}
 @media screen and (min-height: 800px){
     .facts{
         line-height: 80px;
         font-size: 50px;
-    }
-}
-@media screen and (min-height: 680px){
-    .facts{
-        line-height: 70px;
     }
 }
 ::-webkit-scrollbar {
