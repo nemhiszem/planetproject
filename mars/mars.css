@@ -116,7 +116,7 @@ body {
     font-size: 25px;
     font-style: italic;
     opacity: 0;
-    background-color: rgba(173, 155, 155, 0.5);
+    background-color: rgba(133, 119, 119, 0.8);
     padding: 2px;
     margin-left: 150px;
     border-radius: 20px;
@@ -127,7 +127,7 @@ body {
     font-size: 25px;
     font-style: italic;
     opacity: 0;
-    background-color: rgba(173, 155, 155, 0.5);
+    background-color: rgba(133, 119, 119, 0.8);
     padding: 2px;
     margin-right: 150px;
     border-radius: 20px;
@@ -138,20 +138,21 @@ body {
     font-size: 25px;
     font-style: italic;
     opacity: 0;
-    background-color: rgba(173, 155, 155, 0.5);
+    background-color: rgba(133, 119, 119, 0.8);
     padding: 2px;
     border-radius: 20px;
     line-height: 1;
+    margin-top: 35px;
     /*line-height: 30px;*/
 }
 .facts{
-    font-size: 38px;
+    font-size: 33px;
     font-style: italic;
     opacity: 0;
     max-height: 34vh !important;
     min-height: 34vh !important;
     max-width: 100vw !important;
-    background-color: rgba(173, 155, 155, 0.5);
+    background-color: rgba(133, 119, 119, 0.8);
     padding: 2px;
     border-radius: 20px;
     /*line-height: 45px;*/
