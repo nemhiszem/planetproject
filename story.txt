@@ -3,67 +3,33 @@ Hungarian:
  de egy napon a csúnya és gonosz repülő spagetti szörny kilökte a bolygókat pályáikról
  ezzel óriási káoszt okozva. Albertnek a bátor és halált nemfélő űrmajomnak az a feladata hogy visszajuttassa a bolygókat az eredeti helyüre.
  Erre a kalandra szeretnénk meginvitálni titeket is hogy segítsetek Albertnek megtalálni a bolygókat és jó pályára vissza állítani őket.
-
 English:
   In the beginning, monkeys and the flying spaghetti monster lived in peace, but one day the flying spaghetti monster pushed the planets out of their orbits
   making a huge chaos. Albert the brave and fearless space monkey got the task of finding the planets and putting them back to their original places.
   We would like to invite you to this journey to help Albert find the planets and put them back to their orbits.
 
-  Danish:
-  I begyndelsen levede aber og det flyvende spaghettimonster i fred, men en dag skubbede det flyvende spaghettimonster planeterne ud af deres baner
-  skabe et kæmpe kaos. Albert den modige og frygtløse rumabe fik opgaven med at finde planeterne og sætte dem tilbage til deres oprindelige steder.
-  Vi vil gerne invitere dig til denne rejse for at hjælpe Albert med at finde planeterne og bringe dem tilbage til deres kredsløb.
-
-  --------------------------------------------------------------
-
 after story:
-Hungarian:
-Gratulálunk, minden bolygó a megfelelő helyen van!
+Congratulations all the planets are in their right place!
 Albert sikeresen teljesítette küldetését ezzel beírva magát a naprendszerünk történelmébe. Ám a Repülő Spagetti Szörnyet
 nem sikerült teljesen legyőzni mivel elmenekült, így meradjatok éberek és ha úgy adódik a helyzet segítsetek ismét Albertnek és
 a A Banana Republic-nak hogy továbbra is legyenek Alberthez hasonló hősök.
-
 English:
 Albert successfully completed his mission and with this inscribed himself in the history of our solar system.
 But Albert failed to completely defeat the flying spaghetti monster,
 so be vigilant and if the situation arises help Albert again and
 The Banana Republic to continue to have heroes like Albert.
- 
- Danish:
- Tillykke, alle planeterne er på deres rigtige sted!
- Albert fuldførte sin mission med succes og skrev sig dermed ind i vores solsystems historie.
-Men Albert formåede ikke fuldstændigt at besejre det flyvende spaghettimonster,
-så vær på vagt og hvis situationen opstår hjælp Albert igen og
-Bananrepublikken for fortsat at have helte som Albert.
 
-  --------------------------------------------------------------
-  Hungarian:
-  Második Albert emlékére:
-Albert II, egy rhesus majom volt az első főemlős és első emlős az űrben 1949. június 14-én.
-Albert a visszatéréskor meghalt, miután az ejtőernyő meghibásodása miatt kapszulája a földnek ütközött.
-Légúti és kardiológiai adatait az ütközés pillanatáig rögzítették.
-
- English:
-In memory of Albert the second:
+Memory of ALbert the second:
 Albert II, a rhesus monkey, was the first primate and first mammal in space in June 14, 1949.
 Albert died upon reentry after a parachute failure caused his capsule to impact the ground.
 His respiratory and cardiological data were recorded up to moment of impact.
 
- Dansih:
-Til minde om Albert den anden:
-Albert II, en næseabe, var den første primat og første pattedyr i rummet i juni 14, 1949.
-Albert døde ved genindtræden, efter at en faldskærmsfejl fik hans kapsel til at støde jorden.
-Hans respiratoriske og kardiologiske data blev registreret indtil påvirkningstidspunktet.
-
-  --------------------------------------------------------------
 prestory dialog:
-<<<<<<< HEAD
   Albert: Don't do that.
   Spagetti: You can't stop me Albert.
   Albert: You are right, but mankind will eventually unite, and together they will be able to defeat you.
           I'm just a messenger(lie, because the mankind doesn't know about the spagetti monster yet).
 
-<<<<<<< Updated upstream
 
 
   Merkúr:
@@ -151,100 +117,10 @@ prestory dialog:
   SM: They fit around the planet but thanks to me they aren't with it.
 
   Saturn:
-=======
-Merkúr:
-Albertnek nem kellett sokat dolgoznia Merkúrral a bolygó kis mérete miatt, de még sok áll előtte.
-English:
-Albert had little to no struggles with Mercury due to it's small size, but he still has a lot to do.
-=======
-  Hungarian:
-      Albert: Ne csináld.
-      Spagetti: Nem állíthatsz meg, Albert.
-      Albert: Igazad van, de az emberiség végül egyesül, és együtt képesek lesznek legyőzni téged.
-              Én csak egy hírnök vagyok (hazugság, mert az emberiség még nem tud a spagetti szörnyről).
-  English:
-      Albert: Don't do that.
-      Spagetti: You can't stop me Albert.
-      Albert: You are right, but mankind will eventually unite, and together they will be able to defeat you.
-              I'm just a messenger(lie, because the mankind doesn't know about the spagetti monster yet).
-
-  Danish:
-      Albert: Gør det ikke.
-      Spagetti: Du kan ikke stoppe mig Albert.
-      Albert: Du har ret, men menneskeheden vil til sidst forenes, og sammen vil de være i stand til at besejre dig.
-              Jeg er bare en budbringer(løgn, fordi menneskeheden ikke kender til spagettimonstret endnu).
-
-  --------------------------------------------------------------
-  Hungarian:
-      Merkúr:
-      Albertnek nem kellett sokat dolgoznia Merkúrral a bolygó kis mérete miatt. De még sokat kell tennie ahhoz hogy legyőzze a gonosz spagetti szörnyet.
-  
-  English:
-      Mercury:
-      Albert had almost no struggles with Mercury due to it's small size. But he has a lot to do before he can defeat the evil spaghetti monster.
-  Danish:
-      Merkur:
-      Albert havde lidt eller ingen problemer med Mercury på grund af dets lille størrelse. Men han har meget at lave, før han kan besejre det onde spaghettimonster.
-  
-  --------------------------------------------------------------
-  Hungarian:
-      Vénusz:
-      Amikor Albert odaért Vénuszhoz, a spagetti szörny ott várt rá.
-      Spagetti szörny: - Nem tudsz legyőzni Albert, az összes kis bolygót ellöktem a helyéről!
-      Albert: - Igen is le tudlak és le is foglak győzni akármennyi bolygó áll köztünk!
-      És ezzel Albert megfogta Vénuszt és visszatette az eredeti helyére, miközben a spegetti szörny elmenekül.
-  
-  English:
-      Venus:
-      When Albert reached Venus, the spaghetti monster was there waiting for him. 
-      Spahetti monster: - You can't defeat me Albert I pushed all of these tiny planets off their orbits!
-      Albert: - Yes, I can and I will defeat you no matter how many planets I have to save!
-      And with this, Albert took Venus and put it back to it's place, while the spaghetti monster escaped.
-  
-  Danish:
-      Venus:
-      Da Albert nåede Venus, stod spaghettimonstret og ventede på ham.
-      Spahetti monster: - Du kan ikke besejre mig Albert Jeg skubbede alle disse små planeter væk fra deres baner!
-      Albert: - Ja, det kan jeg, og jeg vil besejre dig, uanset hvor mange planeter jeg skal redde!
-      Og med dette tog Albert Venus og satte den tilbage til sin plads, mens spaghettimonstret undslap.
-
-  ----------------------------------------------------------------
-  Hungarian:
-    Föld: Albert otthona a Föld is a szörny tettének áldozata lett, Albert elgondolkodott azon hogy mi lehet az oka annak hogy a szörny ezt tette, miközben pályára állította a bolygót.
-  
-  English:
-    Earth: Albert's home planet Earth was a victim to the monster too, he started thinking about the reason behind the monster's actions while getting the planet back to it's orbit.
-  
-  Danish:
-    Jorden: Alberts hjemmeplanet Jorden var også et offer for monsteret, han begyndte at tænke på årsagen bag monsterets handlinger, mens han fik planeten tilbage til sin bane.
-
-  ----------------------------------------------------------------
-  Hungarian:
-    Mars:A szörnynek szemet szúrt, hogy az egyik bolygó a szószának színét viseli. Albert viccesnek találta ezt és nagyot nevetett rajta, de a szörny egyre dühösebb lett és elhagyta a helyszínt. Albert visszalökte a vörös bolygót a pályájára, eközben a szörny a többi bolygón engedte ki egyre csak nagyobb dühét.
-  
-    Mars: The monster saw that one planet resembles the color of his sauce. Albert found that funny and laughed but the monster got angrier and left the place. Albert took the red planet back to it's orbit, meanwhile the monster took out his increasing anger on the other planets.
-  
-    Mars: Monsteret så, at en planet ligner farven på hans sauce. Albert fandt det sjovt og lo, men monsteret blev mere vred og forlod stedet. Albert tog den røde planet tilbage til sin bane, imens fjernede monsteret sin stigende vrede på de andre planeter.
-
-  ----------------------------------------------------------------
-    Jupiter: Jupiter egy kicsit komolyabb meló volt, csak a mérete megrémisztette Albertet, de nagy erőfeszítéssel és egy pár banánnal sikerült a helyére tolni a gázóriást.
-
-    Jupiter: Jupiter was a tough one to work with, it's size shocked Albert but he managed to take the gas giant to it's place with a lot of effort and a few bananas for power.
-  
-    Jupiter: Jupiter var en svær en at arbejde med, dens størrelse chokerede Albert, men han formåede at tage gasgiganten til dets sted med en stor indsats og et par bananer for kraft.
-  
-  ----------------------------------------------------------------
-    Szaturnusz: Szaturnusz más volt mint a többi mert szét lettek szórva a gyűrűi is. Albert vett egy mély levegőt és nekiállt helyreállítani a bolygót. Eközben a spagetti szörny figyelte Albertet és a cselekedeteit.
-  
-  Saturn: Saturn was different from the others with it's rings being all around the place. Albert took a deep breath and got to work on restoring the planet. Meanwhile the spaghetti monster was watching Albert and his actions.
-  
-  Saturn: Saturn var anderledes end de andre med sine ringe rundt omkring. Albert tog en dyb indånding og gik i gang med at genoprette planeten. I mellemtiden så spaghettimonstret på Albert og hans handlinger.
->>>>>>> Stashed changes
   
   ----------------------------------------------------------------
   Uránusz: Albert és Uránusz egy hideg történet volt. A jégóriás messze elcsúszott a pályájáról, de Albertnek volt egy tökéletes ötlete hogy hogyan csúsztassa vissza a bolygót.
   
-<<<<<<< Updated upstream
   A: Ah Uránusz, hiányozni fog az instant banános fagyi.
   SM: Nekem nem fog hiányozni ez a hatalmas fagyasztó, és ez nem az utolsó.
   

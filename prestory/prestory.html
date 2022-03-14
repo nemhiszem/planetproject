@@ -1,38 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-sclae=1.0">
-    <link rel="stylesheet" type="text/css" href="styleprestory.css">
-</head>
-
-<body onload="setTimeout()">
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <div class="bg-container bg-container-1 active"></div>
-    <div class="bg-container2 bg-container-2">
-        <div id="1img" class="bg-container2">
-            <img src="albert.jpg" class="imagesdilog">
-            <p>Albert: </p>
-            <p>Don't do that.</p>
+    <head>
+        <title>The begining</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="prestory.css">
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6 col-sm-12 col-lg-6" id="planet">
+                    <img src="venus.png" alt="Venus" class="img-thumbnail">
+                </div>
+                <div class="col-md-6 col-sm-12 col-lg-6 text-center text-white pt-3">
+                    <div class="magic">
+                        <div id="spagettimonster">
+                            <img src="hipitihopiti.jpg" alt="Spagetti monster" id="imagesdilog">
+                        </div>
+                        <div id="txtone" class="text-center">Spagetti monster</div>
+                    </div>
+                    <div class="text-center mt-2 dialogtxttwo">You can't defeat me Albert I pushed all of these tiny planets off their orbits!</div>
+                    <br>
+                    <div class="magictwo">
+                        <div id="spagettimonster">
+                            <img src="albert.jpg" alt="Spagetti monster" id="imagesdilog">
+                        </div>
+                        <div id="txttwo" class="text-center">Albert</div>
+                    </div>
+                    <div class="text-center mt-2 dialogtxt">Yes, I can and I will defeat you no matter how many planets I have to save!</div>
+                    <div class="col-md-12 text-white text-center mt-5 dialogtxtthre">
+                        In the beginning, monkeys and the flying spaghetti monster lived in peace, but one day the flying spaghetti monster pushed the planets out of their orbits
+                        making a huge chaos.
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-12 text-center text-white factscontainer">
+                    <div class="col-md-12 col-lg-12 text-center text-white pt-3 facts">
+                        Albert the brave and fearless space monkey got the task of finding the planets and putting them back to their original places.
+                        We would like to invite you to this journey to help Albert find the planets and put them back to their orbits.
+                    </div>
+                </div>
+            </div>
         </div>
-        <div id="2img" class="bg-container2"></div>
-        <div id="3img" class="bg-container2"></div>
-    </div>
-    <div class="bg-container3 bg-container-3"></div>
-    <p class="prestorytxt">
-        In the beginging, monkas and the flying spaghetti monster lived in peace, but one day the flying spaghetti monster pushed the planets out of their orbits making a huge chaos.
-    </p>
-    <p class="prestorytxt2">
-        Albert the brave and fearless space monkey got the task of finding the planets and putting them back to their original places. We would like to invite you to this journey to help Albert.
-    </p>
-    <div class="bg-container4 bg-container-4"></div>
-
-    <div class="button_cont ">
-        <a href="../solarsystem/solarsystem.html" class="button" id="myButton"> ➞</a>
-        <script type="text/javascript" src="prestory.js"></script>
-    </div>
-    <script type="text/javascript" src="prestory.js"></script>
-
-</body>
+        <script src="prestory.js"></script>
+    </body>
 </html>
