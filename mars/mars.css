@@ -45,6 +45,7 @@ body {
     min-width: 100vw;
     max-height: 100vh;
     min-height: 100vh;
+    line-height: 1 !important;
 }
 #planet {
     max-height: 60vh;
