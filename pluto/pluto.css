@@ -101,7 +101,6 @@ body {
 	animation: float 4s ease-in-out infinite;
 }
 #txtone {
-    float: right;
     animation: float 4s ease-in-out infinite;
     background-color: white;
     border-radius: 5px;
