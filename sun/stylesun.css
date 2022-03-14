@@ -2,16 +2,16 @@
   display: none;
 }
 body {
-  background-image: url("space.jpg");
+  background-image: url("spacemonke.gif");
   background-position: center;
   background-size: cover;
   position: relative;
 }
-#star {
+#planet {
   height: 60vh;
   animation: fadein 2s;
 }
-#star img {
+#planet img {
   height: 60vh;
   max-width: 60vw;
   max-width: auto !important;
@@ -74,9 +74,12 @@ body {
 
 h1 {
   color: white;
-  margin-top: 100px;
+  margin-top: 120px;
   font-style: italic;
+  font-size: small;
 }
 
 img {
+  height: 500px;
+  width: 750px;
 }
