@@ -68,6 +68,12 @@ body {
     float: left;
     opacity: 0;
 }
+.magicthree { /*------------------*/
+    max-width: 120px;
+    min-width: 120px;
+    float: right;
+    opacity: 0;
+}
 #spagettimonster{
     max-height: 40px;
     min-height: 40px;
@@ -101,6 +107,12 @@ body {
     border-radius: 5px;
     color: black;
 }
+#txtthree {
+    animation: float 4s ease-in-out infinite;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+}
 .dialogtxt{
     font-size: 25px;
     font-style: italic;
@@ -121,7 +133,7 @@ body {
     border-radius: 20px;
     /*line-height: 30px;*/
 }
-.dialogtxtthre{
+.dialogtxtthree{
     font-size: 25px;
     font-style: italic;
     opacity: 0;

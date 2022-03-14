@@ -34,3 +34,8 @@ setTimeout(function() {
     $el5 = $('.facts:not(.active');
     $el5.addClass('active');
 }, 8000);
+
+setTimeout(function () {
+    $el2 = $('.dialogtxtthree:not(.active');
+    $el2.addClass('active');
+}, 10000);
