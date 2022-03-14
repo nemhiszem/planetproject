@@ -25,12 +25,15 @@
     }
     .dialogtxttwo{
         font-size: 40px !important;
+        line-height: 1.5 !important;
     }
     .dialogtxt{
         font-size: 40px !important;
+        line-height: 1.5 !important;
     }
     .dialogtxtthre{
         font-size: 40px !important;
+        line-height: 1.5 !important;
     }
 }
 ::-webkit-scrollbar {
@@ -88,7 +91,6 @@ body {
 	animation: float 4s ease-in-out infinite;
 }
 #txtone {
-    float: right;
     animation: float 4s ease-in-out infinite;
     background-color: white;
     border-radius: 5px;
