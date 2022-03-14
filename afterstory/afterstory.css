@@ -56,6 +56,7 @@ body {
 #planet img {
   max-height: 60vh;
   min-height: 60vh;
+  width: 900px;
 }
 .magic {
   max-width: 120px;
