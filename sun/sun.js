@@ -1,7 +1,5 @@
 var $el1;
-var $el2;
 var $el3;
-var $el4;
 var $el5;
 
 setTimeout(function () {
