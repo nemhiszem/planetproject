@@ -46,3 +46,5 @@ setTimeout(function () {
     $el7 = $('.dialogtxtfour:not(.active');
     $el7.addClass('active');
 }, 10000)
+
+
