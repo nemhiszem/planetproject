@@ -35,9 +35,15 @@ prestory dialog:
   Merkúr:
   Albertnek nem kellett sokat dolgoznia Merkúrral a bolygó kis mérete miatt. De még sokat kell tennie ahhoz hogy legyőzze a gonosz spagetti szörnyet.
   
+  A: Ez sokkal egyszerűbb volt mint azt hittem.
+  SM: Ne szokj hozzá, van még mit tenni. Azt garantálhatom.
+
   Mercury:
   Albert had almost no struggles with Mercury due to it's small size. But he has a lot to do before he can defeat the evil spaghetti monster.
   
+  A: This was way easier than I thought it would be.
+  SM: Don't get too used to it, there is more to come. I can guarantee that.
+
   Merkur:
   Albert havde lidt eller ingen problemer med Mercury på grund af dets lille størrelse. Men han har meget at lave, før han kan besejre det onde spaghettimonster.
   --------------------------------------------------------------
@@ -62,49 +68,89 @@ prestory dialog:
   Föld:
   Albert otthona a Föld is a szörny tettének áldozata lett, Albert elgondolkodott azon hogy mi lehet az oka annak hogy a szörny ezt tette, miközben pályára állította a bolygót.
   
+  A: Ennyi embernek át kellett esnie a szörny tettén, miért célozta meg a Földet?
+  SM: Mert része a tervemnek, a tervemnek amit te soha nem értenél meg.
+
   Earth:
   Albert's home planet Earth was a victim to the monster too, he started thinking about the reason behind the monster's actions while getting the planet back to it's orbit.
   
+  A: All of these people had to experience the monster's actions, why did he do it to Earth?
+  SM: Because it's part of my plan, a plan you wont understand.
+
   Jorden:
   ----------------------------------------------------------------
   Mars:A szörnynek szemet szúrt, hogy az egyik bolygó a szószának színét viseli. Albert viccesnek találta ezt és nagyot nevetett rajta, de a szörny egyre dühösebb lett és elhagyta a helyszínt. Albert visszalökte a vörös bolygót a pályájára, eközben a szörny a többi bolygón engedte ki egyre csak nagyobb dühét.
   
+  A: Az a nagy buta rendesen megnevettetett, szerintem nagyon mérges. Lássunk munkára.
+  SM: Nem hiszem el hogy Albert kinevetett, ez egyáltalán nem vicces.
+
   Mars: The monster saw that one planet resembles the color of his sauce. Albert found that funny and laughed but the monster got angrier and left the place. Albert took the red planet back to it's orbit, meanwhile the monster took out his increasing anger on the other planets.
   
+  A: That big dummy made me laugh harder than ever, I bet he's really angry. Let's get to work now.
+  SM: I can't believe that Albert laughed at me, this is not funny at all.
+
   Mars:
 
   ----------------------------------------------------------------
   Jupiter: Jupiter egy kicsit komolyabb meló volt, csak a mérete megrémisztette Albertet, de nagy erőfeszítéssel és egy pár banánnal sikerült a helyére tolni a gázóriást.
 
+  A: Te jó ég ez egy hatalmas bolygó, hogy fogom ezt megmozdítani.
+  SM: Jobb ha nem nyúlsz hozzá kicsi majom, nekem is ez a kérdés keringett a tudatomban.
+
+
   Jupiter: Jupiter was a tough one to work with, it's size shocked Albert but he managed to take the gas giant to it's place with a lot of effort and a few bananas for power.
   
+  A: My god this is a big planet, how am I going to move this?
+  SM: Better not touch it little monkey, I had the same issue too.
+
   Jupiter:
   
   ----------------------------------------------------------------
   Szaturnusz: Szaturnusz más volt mint a többi mert szét lettek szórva a gyűrűi is. Albert vett egy mély levegőt és nekiállt helyreállítani a bolygót. Eközben a spagetti szörny figyelte Albertet és a cselekedeteit.
   
+  A: Gyűrűk mint egy ékszerésznél, szomorú hogy túl nagyok az ujjaimra.
+  SM: A bolygóhoz tökéletesen illenek, de nekem hála a bolygónak nincsenek többé gyűrűi.
+
   Saturn: Saturn was different from the others with it's rings being all around the place. Albert took a deep breath and got to work on restoring the planet. Meanwhile the spaghetti monster was watching Albert and his actions.
   
+  A: Rings like in a jewellery shop, too bad these rings are too big for my fingers.
+  SM: They fit around the planet but thanks to me they aren't with it.
+
   Saturn:
   
   ----------------------------------------------------------------
   Uránusz: Albert és Uránusz egy hideg történet volt. A jégóriás messze elcsúszott a pályájáról, de Albertnek volt egy tökéletes ötlete hogy hogyan csúsztassa vissza a bolygót.
   
+  A: Ah Uránusz, hiányozni fog az instant banános fagyi.
+  SM: Nekem nem fog hiányozni ez a hatalmas fagyasztó, és ez nem az utolsó.
+  
   Uranus: Albert and Uranus was a cold story. The giant ice planet has slipped far from it's orbit, but Albert had the perfect idea on how to slide the planet back.
+  
+  A: Ah Uranus, I will miss making banana ice cream in only a few minutes.
+  SM: I won't miss this cold place, and it's not the only cold planet.
   
   Uranus:
   
   ----------------------------------------------------------------
   Neptunusz:Neptunusz, az óriás bolygó olyan erős szelekkel ami majdnem elfújta Albertet. Sikerült neki elkerülni az erősebb széllöketeket és visszarakni a bolygót a pályájára. 
+ 
+  A: Olyan hideg és szeles ez a hely, gyorsnak kell lennem mert jégkocka lessz belőlem.
+  SM: Nem rossz ötlet, én már megfáztam.
   
   Neptune:Neptune, the giant planet with winds that almost blew Albert away. He managed to avoid the heavy wind and placed the planet onto it's orbit.
   
+  A: It's so cold and windy here, I have to be quick before I turn into a block of ice.
+  SM: Not a bad idea, I already have a cold.
   Neptun:
   
   ----------------------------------------------------------------
   Pluto:Az ismeretlen, Pluto fura érzést adott Albertnek mert nem tudta hogy Pluto egy feljegyzett bolygó a naprendszerben.
+  A: Ez fura, a szörny tényleg az összes bolygót elmozdította.
+  SM: Hát persze, de neked hála minden olyan mint régen.
   
   Pluto:The great unknown, Pluto gave Albert weird feelings since Albert didn't knew about Pluto being a planet in the solar system.
+  A:This is weird, the monster really went for all of them.
+  SM: Of course I did, but thanks to you it's all back again.
   
   Pluto:
   
