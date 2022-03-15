@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\prestory"
   ],
-  "SelectedNode": "\\afterstory",
+  "SelectedNode": "\\prestory\\prestory.css",
   "PreviewInSolutionExplorer": false
 }
