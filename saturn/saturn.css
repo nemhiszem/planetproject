@@ -1,11 +1,23 @@
 @media screen and (min-height: 680px){
     .facts{
-        line-height: 70px;
+        line-height: 50px;
+    }
+    .dialogtxttwo{
+        font-size: 25px !important;
+        line-height: 1.5 !important;
+    }
+    .dialogtxt{
+        font-size: 25px !important;
+        line-height: 1.5 !important;
+    }
+    .dialogtxtthre{
+        font-size: 25px !important;
+        line-height: 1.5 !important;
     }
 }
 @media screen and (min-height: 900px){
     .facts{
-        line-height: 80px;
+        line-height: 80px !important;
         font-size: 50px !important;
     }
     .dialogtxttwo{
@@ -20,17 +32,20 @@
 }
 @media screen and (min-height: 1000px){
     .facts{
-        line-height: 100px;
+        line-height: 100px !important;
         font-size: 50px !important;
     }
     .dialogtxttwo{
-        font-size: 45px !important;
+        font-size: 40px !important;
+        line-height: 1.5 !important;
     }
     .dialogtxt{
-        font-size: 45px !important;
+        font-size: 40px !important;
+        line-height: 1.5 !important;
     }
     .dialogtxtthre{
-        font-size: 45px !important;
+        font-size: 40px !important;
+        line-height: 1.5 !important;
     }
 }
 ::-webkit-scrollbar {
@@ -89,7 +104,6 @@ body {
 	animation: float 4s ease-in-out infinite;
 }
 #txtone {
-    float: right;
     animation: float 4s ease-in-out infinite;
     background-color: white;
     border-radius: 5px;
