@@ -76,3 +76,10 @@ html body video {
     text-shadow: 0 0 3px #15f4ee, 0 0 3px #15f4ee;
 }
 
+* {
+    cursor: url('https://cdn.custom-cursor.com/db/5964/32/cute-banana-cursor.png'), auto;
+}
+
+button:hover {
+    cursor: url('https://cdn.custom-cursor.com/db/5963/32/cute-banana-pointer.png'), auto;
+}
